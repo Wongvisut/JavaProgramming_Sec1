@@ -1,1 +1,1 @@
-# JavaProgramming_Sec1
+2313110849 Wongwisut Ritpech
