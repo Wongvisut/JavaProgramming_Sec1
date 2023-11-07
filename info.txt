@@ -1,0 +1,5 @@
+Student_id : 2313110849
+Student Name: Wongwisut Ritpech
+Major: IT
+Level : 1
+Faculty:Information Technology
