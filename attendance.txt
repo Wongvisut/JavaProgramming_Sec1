@@ -1,4 +1,4 @@
-Id:2313110849
-Name-Surname:Wongwisut Ritpech
-Date: Dec-19-2023
-Topic: Method and Overloading Method
+Id: 2313110849
+Name-Surname: Wongwisut Ritpech
+Date: Dec-26-2023
+Topic: Array and Array Method
