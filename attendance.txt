@@ -1,4 +1,4 @@
 Id: 2313110849
 Name-Surname: Wongwisut Ritpech
-Date: Dec-26-2023
-Topic: Array and Array Method
+Date: Jan-16-2024
+Topic: Encapsulation Concept 
